@@ -1,0 +1,6 @@
+.marquee{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    background-image: url(../src/assets/logo_small.png) no-repeat center;
+}

@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("轮播图的逻辑已经执行"),console.log("tabs的逻辑已经执行")})();
